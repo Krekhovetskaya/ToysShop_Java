@@ -1,0 +1,2 @@
+Toy{id=276536906, name='��誠', count=29, probability=12}
+Toy{id=276536906, name='��誠', count=28, probability=12}
